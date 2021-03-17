@@ -1,58 +1,58 @@
-{
-	"0": {
+[
+	{
 		"id": "TV9",
 		"videoID": "Q6QR4979KIQ"
 	},
-	"1": {
+	{
 		"id": "NTV",
 		"videoID": "HUiHKse-YgM"
 	},
-	"2": {
+	{
 		"id": "ABN",
 		"videoID": "E_JY-Z3_nX0"
 	},
-	"3": {
+	{
 		"id": "V6",
 		"videoID": "bl9VaUaI0r0"
 	},
-	"4": {
+	{
 		"id": "ETV_TS",
 		"videoID": "Sg3EfBJIqsk"
 	},
-	"5": {
+	{
 		"id": "HMTV",
 		"videoID": "qIY8IeluF9g"
 	},
-	"6": {
+	{
 		"id": "TV5",
 		"videoID": "iZHpAj8cHsw"
 	},
-	"7": {
+	{
 		"id": "CVR_News",
 		"videoID": "WaMInhbdZ_g"
 	},
-	"8": {
+	{
 		"id": "Sakshi",
 		"videoID": "8McTsOqeueE"
 	},
-	"9": {
+	{
 		"id": "Mahaa_News",
 		"videoID": "3IinZkCiyyE"
 	},
-	"10": {
+		{
 		"id": "T_News",
 		"videoID": "VyzCuGXnHxQ"
 	},
-	"11": {
+		{
 		"id": "10_TV",
 		"videoID": "IHuHxUo4Yps"
 	},
-	"12": {
+		{
 		"id": "Prime9_News",
 		"videoID": "WTczRa2rb70"
 	},
-	"13": {
+		{
 		"id": "I_News",
 		"videoID": "4VjCaF_QtW0"
 	}
-}
+]
